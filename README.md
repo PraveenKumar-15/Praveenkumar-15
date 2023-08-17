@@ -47,7 +47,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/PraveenKumar-15/PraveenKumar-15/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
