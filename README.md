@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">Tech Stack<br>💻   Python  | Java  | HTML | CSS | JavaScript<br>🌐<br>🛢   MySQL<br>🔧   IntelliJ | PyCharm | Visual Studio code | Eclipse | Git<br>🖥   Adobe Photoshop | premiere pro</p>
+<p align="left">Tech Stack<br>💻   Python  | Java  | HTML | CSS | JavaScript<br>🌐<br>🛢   MySQL<br>🔧   IntelliJ | PyCharm | Visual Studio code | Eclipse | Git<br>🖥   Adobe Photoshop | premiere pro | Lightroom | DaVinci Resolve </p>
 
 ###
 
